@@ -8,6 +8,16 @@
       "name": "DIE KAPITÄNE Media GmbH",
       "email": "info@die-kapitaene.de",
       "homepage": "http://die-kapitaene.de"
+    },
+    {
+      "name": "Martin Neubert",
+      "email": "neubi@dampfer.net",
+      "homepage": "http://www.slashserver.net"
+    },
+    {
+      "name": "Robert Queck",
+      "email": "robert.queck@dampfer.net",
+      "homepage": "http://www.rob-q.de"
     }
   ],
   "require": {
