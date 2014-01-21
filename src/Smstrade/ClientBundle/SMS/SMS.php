@@ -164,7 +164,7 @@ class SMS implements SMSInterface {
         
         if($this->getSendDate()) {
             $datetime = $this->getSendDate();
-            $parameter["sendtime"] = $datetime->getTimestamp();
+            $parameter["senddate"] = $datetime->getTimestamp();
         }
         
         return $parameter;
